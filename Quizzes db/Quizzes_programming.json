@@ -1,0 +1,102 @@
+[
+  {
+    "title": "ما هو العنصر الصحيح لإنشاء رابط في HTML؟",
+    "options": ["&lt;link&gt;", "&lt;a&gt;", "&lt;href&gt;", "&lt;url&gt;"],
+    "answer": "&lt;a&gt;"
+  },
+  {
+    "title": "أي خاصية في CSS تُستخدم لتغيير لون النص؟",
+    "options": ["font-style", "text-color", "color", "background-color"],
+    "answer": "color"
+  },
+  {
+    "title": "في JavaScript، ما هي الكلمة المفتاحية لإنشاء متغير؟",
+    "options": ["let", "define", "varies", "new"],
+    "answer": "let"
+  },
+  {
+    "title": "ما هي الخاصية المستخدمة في CSS لجعل العناصر مرنة؟",
+    "options": ["block", "grid", "flex", "float"],
+    "answer": "flex"
+  },
+  {
+    "title": "أي وسم يُستخدم لتعريف جدول في HTML؟",
+    "options": ["&lt;div&gt;", "&lt;table&gt;", "&lt;form&gt;", "&lt;grid&gt;"],
+    "answer": "&lt;table&gt;"
+  },
+  {
+    "title": "ما هي الطريقة الصحيحة لكتابة تعليق في JavaScript؟",
+    "options": ["&lt;!-- تعليق --&gt;", "// تعليق", "** تعليق **", "## تعليق"],
+    "answer": "// تعليق"
+  },
+  {
+    "title": "ما هي الخاصية في CSS التي تتحكم في حجم الخط؟",
+    "options": ["font-weight", "text-size", "font-size", "line-height"],
+    "answer": "font-size"
+  },
+  {
+    "title": "أي من التالي يُستخدم لتعريف دالة في JavaScript؟",
+    "options": [
+      "def myFunction()",
+      "function myFunction()",
+      "create myFunction()",
+      "func myFunction()"
+    ],
+    "answer": "function myFunction()"
+  },
+  {
+    "title": "أي وسم يُستخدم لإدراج صورة في HTML؟",
+    "options": ["&lt;src&gt;", "&lt;image&gt;", "&lt;img&gt;", "&lt;pic&gt;"],
+    "answer": "&lt;img&gt;"
+  },
+  {
+    "title": "ما هي الخاصية في CSS التي تُستخدم لتغيير خلفية العنصر؟",
+    "options": [
+      "background-color",
+      "bg-color",
+      "color-fill",
+      "background-style"
+    ],
+    "answer": "background-color"
+  },
+  {
+    "title": "ما ناتج التعبير التالي في JavaScript: typeof null؟",
+    "options": ["'null'", "'object'", "'undefined'", "'boolean'"],
+    "answer": "'object'"
+  },
+  {
+    "title": "ما الفرق بين let و var في JavaScript؟",
+    "options": [
+      "لا يوجد فرق بينهما",
+      "let لها نطاق كتلة (block scope) بينما var لها نطاق دالة (function scope)",
+      "var تُستخدم في الحلقات فقط",
+      "let تُستخدم للثوابت فقط"
+    ],
+    "answer": "let لها نطاق كتلة (block scope) بينما var لها نطاق دالة (function scope)"
+  },
+  {
+    "title": "أي من التالي يُستخدم لإنشاء نسخة سطحية (shallow copy) لمصفوفة؟",
+    "options": [
+      "array.copy()",
+      "array.clone()",
+      "array.slice()",
+      "array.split()"
+    ],
+    "answer": "array.slice()"
+  },
+  {
+    "title": "ما هي نتيجة المقارنة: [] == false في JavaScript؟",
+    "options": ["true", "false", "TypeError", "undefined"],
+    "answer": "true"
+  },
+  {
+    "title": "أي من التالي يُمثل Promise في JavaScript؟",
+    "options": [
+      "وحدة نمطية لجلب بيانات",
+      "كائن يمثل عملية غير متزامنة قد تكتمل أو تفشل",
+      "دالة تُستخدم لتكرار المصفوفات",
+      "أداة لإنشاء متغيرات ثابتة"
+    ],
+    "answer": "كائن يمثل عملية غير متزامنة قد تكتمل أو تفشل"
+  }
+]
