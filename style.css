@@ -13,7 +13,7 @@ body {
   background: url('body.jpg') no-repeat center;
   background-size: cover;
 
-}
+} 
 
 /* category */
 
@@ -33,6 +33,19 @@ body {
   padding-bottom: 10px;
 }
 
+@media (max-width: 695px) {
+  .category h1 {
+  font-size: 20px;
+  padding: 5px;
+  }
+.category div div {
+  font-size: 10px;
+  padding: 5px 10px;
+}
+.category div {
+  column-gap: 10px;
+}
+}
 .category div {
   width: 100%;
   display: flex;
@@ -189,4 +202,29 @@ body {
 .bad {
   color: red;
   font-size: 20px;
+}
+@media (max-width: 695px) {
+  .category h1 {
+  font-size: 20px;
+  padding: 5px;
+  }
+.category div div {
+  font-size: 10px;
+  padding: 5px 10px;
+}
+.category div {
+  column-gap: 10px;
+}
+.contaner .info-quiz {
+  font-size: 10px;
+}
+.contaner .question h2 {
+  font-size: 15px;
+}
+.contaner .question .submit {
+  font-size: 15px;
+}
+.contaner .question .options {
+  font-size: 10px;
+}
 }
